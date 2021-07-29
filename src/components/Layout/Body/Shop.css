@@ -1,0 +1,20 @@
+.shop{
+    width: 100%;
+    background: url(/src/assets/bg.jpg);
+    height: 450px;
+    background-attachment: fixed;
+}
+.container {
+    width: 1200px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+.shop__text {
+    height: 450px;
+    display: flex;
+    align-items: center;
+    width: 400px;
+    justify-content: center;
+    margin: 0 auto;
+    color: #fff;
+}

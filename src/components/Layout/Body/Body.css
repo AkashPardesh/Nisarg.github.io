@@ -1,0 +1,29 @@
+.about{
+    padding: 80px;
+    background-color: aliceblue;
+
+}
+.container{
+    width: 1200px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+.row {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+.col-6{
+    width: 50%;
+}
+.p-25{
+    padding: 45px;
+}
+.about__img {
+    width: 100%;
+    overflow: hidden;
+}
+
+.about__img img {
+    width: 100%;
+}
